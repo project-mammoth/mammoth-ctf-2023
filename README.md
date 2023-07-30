@@ -9,7 +9,7 @@ all live in and listen to some cool music at the same time!
 # Contest
 The Mammoth mini-CTF is a music themed mini-[CTF](https://ctfd.io/whats-a-ctf/)
 that is completely self-contained in [an .mp3 file](https://github.com/project-mammoth/mammoth-ctf-2023/raw/main/TODO.mp3).
-To listen to the song check it out on [soundcloud](https://soundcloud.com/projectmammoth/debugged-the-sound-of-an)
+To listen to the song check it out on [soundcloud](https://soundcloud.com/projectmammoth/debugged-the-sound-of-an).
 The official [CTF contest page is here](https://ctf.projectmammoth.com).
 
 This mini-CTF is jeopardy style with 10 challenges.  The challenges are puzzle
