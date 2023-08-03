@@ -2,6 +2,8 @@
 <img src="https://projectmammoth.com/images/Pixel-Mammoth-Headphones-Medium.png" height="328" width="493">
 </p>
 
+***This is the public repo for the 2023 Mammoth Mini-CTF and to [register, play and see the scoreboard go to the contest page here](https://mammoth.ctfd.io/).***
+
 # Intro
 Solve puzzles and hacking challenges to find the keys and escape the simulated
 universe and listen to some cool music at the same time!
@@ -23,8 +25,7 @@ but some challenges are significantly easier to solve with coding/scripting.
 The contest will start at 2023-08-05 00:00 UTC (2023-08-04 17:00 PT) run for just
 over a week until 2023-08-14 00:00 UTC (2023-08-13 17:00 PT).
 
-Registration for the contest will open a couple days before the event and
-information will be posted here.
+***To register a user [click here!!](https://mammoth.ctfd.io/register)***
 
 # Background
 Help us escape this simulated universe!! We’ve just discovered that our Project
@@ -90,7 +91,7 @@ Scan link for reference when the contest starts.
   unfortunately may not have that ready by game time (sorry about that!).
 * One challenge requires a NES emulator with "mapper 30" support and there
   are some open source and/or free options that will be posted in the notes
-  for the challenge.
+  for the relevant challenge.
 
 
 # File Hashes
