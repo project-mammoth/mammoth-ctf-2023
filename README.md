@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://projectmammoth.com/images/debugged LG Thumbnail.jpg" height="400" width="400">
+<img src="https://projectmammoth.com/images/Pixel-Mammoth-Headphones-Medium.png">
 </p>
 
 # Intro
