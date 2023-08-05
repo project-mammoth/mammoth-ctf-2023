@@ -96,4 +96,4 @@ Scan link for reference when the contest starts.
 
 # File Hashes
 SHA1 hashes:
-* Version 0.1 `TBD`
+* Version 1: 7238bd2e21b1447cc312cd18cfc39fe4acf2611f
