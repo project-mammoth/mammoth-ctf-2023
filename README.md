@@ -81,7 +81,7 @@ Scan link for reference when the contest starts.
   a registered user.
 * The video links in the notes sections of the challenges are sometimes hints,
   but sometimes just for fun :).
-* Keep an eye on the notifications on https://ctf.projectmammoth.com/ and our
+* Keep an eye on the notifications on https://mammoth.ctfd.io and our
   twitter https://twitter.com/prjctmammoth for updates.
 
 # Requirements
